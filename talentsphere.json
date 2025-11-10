@@ -1,0 +1,278 @@
+{
+  "group": "TalentSphere",
+  "generatedAt": "2025-11-09T05:43:09+00:00",
+  "speedDials": [
+    {
+      "id": "rWCHn7iQN8G3sapJ1LVoGMEOmT9Q20yA",
+      "title": "Crelate\u00ae",
+      "description": "",
+      "url": "https://app.crelate.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/Crelate-Logo-Speed-Dial.png",
+      "position": 1
+    },
+    {
+      "id": "qF8TdVidQXvvpsbCG7sQsd047qP6cHRd",
+      "title": "Crelate Help Centre",
+      "description": "",
+      "url": "https://help.crelate.com/en/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2025/10/Help-Centre.png",
+      "position": 2
+    },
+    {
+      "id": "Hd01ubhJtCkUvoTgNZBUHlG2X9AhmH6P",
+      "title": "Indeed - Resume Search",
+      "description": "",
+      "url": "https://resumes.indeed.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/indeed-resumes.jpg",
+      "position": 3
+    },
+    {
+      "id": "RnOFpE9N2tUcGS5VR9mfaV7J4brhg48u",
+      "title": "Microsoft 365",
+      "description": "",
+      "url": "https://www.office.com/?auth=2",
+      "image": "https://talentsphere.ca/wp-content/uploads/2023/10/Microsoft_365_Logo2.png",
+      "position": 4
+    },
+    {
+      "id": "Ok5P0wiivAiSPJS7Pv119gfm7EhAQOkl",
+      "title": "TalentSphere-SharePoint",
+      "description": "",
+      "url": "https://netorg226380.sharepoint.com/SitePages/Home.aspx",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/SharePointLogo.png",
+      "position": 5
+    },
+    {
+      "id": "cRESrOkTUCptTDr68UkZpKoubbqhDPy4",
+      "title": "LinkedIn",
+      "description": "",
+      "url": "http://www.linkedin.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/LinkedInSpeedDialLogo.png",
+      "position": 6
+    },
+    {
+      "id": "XhklWeaWeoMe9x09hWH2FvW0PXgQPT74",
+      "title": "ZoomInfo - Sales OS",
+      "description": "",
+      "url": "https://www.zoominfo.com/login",
+      "image": "https://talentsphere.ca/wp-content/uploads/2023/03/SalesOS.png",
+      "position": 7
+    },
+    {
+      "id": "EbSeUdI6XL2TXCTMhZQK1uZFdQtuREVq",
+      "title": "ZoomInfo - Talent OS",
+      "description": "",
+      "url": "https://recruiter-app.zoominfo.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2023/03/TalentOS.jpg",
+      "position": 8
+    },
+    {
+      "id": "tsTQxkAGdnnTxlDRWDTTABsfZTNirsx6",
+      "title": "ZoomInfo - Engage",
+      "description": "",
+      "url": "https://engage-app.zoominfo.com",
+      "image": "https://talentsphere.ca/wp-content/uploads/2022/02/ZoomInfo-Engage-Logo.jpg",
+      "position": 9
+    },
+    {
+      "id": "66AhNcP6axVvrE6yxWJqJQAXvyB3DL5M",
+      "title": "hireEZ",
+      "description": "",
+      "url": "https://app.hireez.com/login",
+      "image": "https://talentsphere.ca/wp-content/uploads/2023/10/hireEZ_Logo.png",
+      "position": 10
+    },
+    {
+      "id": "rmoOzcuo3UOPvD44Xq28d1sJITLvos1A",
+      "title": "Spark Hire | Interviews",
+      "description": "",
+      "url": "https://sparkhire.com/company",
+      "image": "https://talentsphere.ca/wp-content/uploads/2022/09/sparkhirelogo.jpg",
+      "position": 11
+    },
+    {
+      "id": "JZUek6LHURpWVP3OqXFFOtSLVQvdMbEe",
+      "title": "Phone/Chat/Meetings",
+      "description": "",
+      "url": "http://talentsphere.zoom.us",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/ZoomLogo2SpeedDial.jpg",
+      "position": 13
+    },
+    {
+      "id": "8n1VaT3zbUprTToWoH0NKEdFTpvgTgQw",
+      "title": "DocuSign",
+      "description": "",
+      "url": "https://app.docusign.com/home",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/DocuSignLogo.jpg",
+      "position": 14
+    },
+    {
+      "id": "CxgAZzTd6SOGc67x8E3tS71p59KPPCLg",
+      "title": "Recruit'em X-Ray Search",
+      "description": "",
+      "url": "https://recruitin.net/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2022/09/recruitem-social-logo.png",
+      "position": 15
+    },
+    {
+      "id": "3aNJW64dqs8TCMbTxcE5VUq4so6t3ABh",
+      "title": "Crelate Academy",
+      "description": "",
+      "url": "https://crelate.360learning.com",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/CrelateAcademy.png",
+      "position": 16
+    },
+    {
+      "id": "3AGg78KicyOmckUsafTsPeAeDUDJI2TW",
+      "title": "Recruiting Training",
+      "description": "",
+      "url": "https://nlexchange.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2022/09/nextlevelexchangelogo.png",
+      "position": 18
+    },
+    {
+      "id": "2d6zvazorHALbs99TpnrbISrPM4I743d",
+      "title": "Next Level Academy",
+      "description": "",
+      "url": "https://www.nl-academy.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2023/03/NL_Academy.png",
+      "position": 19
+    },
+    {
+      "id": "bfUZlfwmfVMxyqWeOdpTo0gPubvAFaWO",
+      "title": "Training Resources",
+      "description": "",
+      "url": "https://nletv.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2023/03/NLE-TV.png",
+      "position": 20
+    },
+    {
+      "id": "KEIUwib71X2S2o7dzPyoFA1hbZcu7HEs",
+      "title": "TalentSphere Website",
+      "description": "",
+      "url": "https://talentsphere.ca",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/WebsiteSpeedDialLogo.jpg",
+      "position": 21
+    },
+    {
+      "id": "DvfJ1O6LcCQdVHdtqd7VrRB5c8dpoUNU",
+      "title": "TalentSphere Job Board",
+      "description": "",
+      "url": "http://jobs.talentsphere.ca/",
+      "image": "http://talentsphere.ca/wp-content/uploads/2022/09/Job-Board.png",
+      "position": 22
+    },
+    {
+      "id": "FIkaIRAHSfHR0a6TT1s7CQx6utRmCTa5",
+      "title": "TalentSphere Payslips",
+      "description": "",
+      "url": "https://talentsphere.paychequer.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/paychequerlogo.jpg",
+      "position": 24
+    },
+    {
+      "id": "AgJrqtTcHcnWURhszckPvGiQf4NUlam7",
+      "title": "Sign In | My Canada Life",
+      "description": "",
+      "url": "https://my.canadalife.com/sign-in",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/canada-life-logo.png",
+      "position": 25
+    },
+    {
+      "id": "Td0y9ZiDzoDEWeP2BZRFRnu2A5UAJgGe",
+      "title": "Heath Care Spending Acct",
+      "description": "",
+      "url": "https://www.myhsaaccess.com/Login/central",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/myhsa-logo_main.webp",
+      "position": 26
+    },
+    {
+      "id": "PBiOTT0linJwbfZODriVf9ERyFhJKosR",
+      "title": "NAICS/SIC Codes",
+      "description": "",
+      "url": "https://www.naics.com/search?",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/NAICS_Logo.jpg",
+      "position": 27
+    },
+    {
+      "id": "qJaZNWfZ1BizzMzoTPtQHb8wMHiK7uWC",
+      "title": "How-To Guides (McGill)",
+      "description": "",
+      "url": "https://www.mcgill.ca/caps/publications/guides",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/mcgill-interview-guide-logo.jpg",
+      "position": 28
+    },
+    {
+      "id": "CiqyXJkDxBd4XnZN2udHHTCTTnnK2G0T",
+      "title": "Proofpoint Spam Filter",
+      "description": "",
+      "url": "https://godaddy.cloud-protect.net/app/login.php",
+      "image": "https://talentsphere.ca/wp-content/uploads/2022/09/proofpointlogo.jpg",
+      "position": 29
+    },
+    {
+      "id": "99oXu5ZVpmKwXHktkwmlUxz99NUJGu1U",
+      "title": "Boolean Search",
+      "description": "",
+      "url": "https://recruitee.com/articles/boolean-search-in-recruitment",
+      "image": "https://talentsphere.ca/wp-content/uploads/2022/09/booleanlogo.png",
+      "position": 30
+    },
+    {
+      "id": "CThyMoBRK8anrK9aCZb8Muq9eCgNCJxq",
+      "title": "Adobe Acrobat",
+      "description": "",
+      "url": "https://www.adobe.com/acrobat/online/pdf-editor.html",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/AdobeAcrobat-Logo.png",
+      "position": 31
+    },
+    {
+      "id": "4hTkPneBqImJ49l4A6fJryNuV7xqhT9a",
+      "title": "Online PDF Converter",
+      "description": "",
+      "url": "https://online2pdf.com/",
+      "image": "https://d5l07j6ktywkt.cloudfront.net/sdpreview/0/55716199/1393854441-531487e93bc20/preview.jpg",
+      "position": 32
+    },
+    {
+      "id": "TZTScyiuaWAAlZkpgmABSwgbTRedHp3K",
+      "title": "PDF to DOC",
+      "description": "",
+      "url": "https://pdf2doc.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/PDF2DOC-Logo.jpg",
+      "position": 33
+    },
+    {
+      "id": "22ae9a07",
+      "title": "FaceBook",
+      "description": "",
+      "url": "http://facebook.com",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/FacebookSpeedDialLogo.png",
+      "position": 34
+    },
+    {
+      "id": "f125b86e",
+      "title": "Twitter",
+      "description": "",
+      "url": "https://twitter.com/",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/Twitter-New-Logo-X-2023.jpg",
+      "position": 35
+    },
+    {
+      "id": "8oAIwEqqM5cU7Akse6zE3PIZ4hl74420",
+      "title": "Invoice Lookup",
+      "description": "",
+      "url": "https://xero-lookup.onrender.com/auth/login",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/InvoiceLookup.png",
+      "position": 37
+    },
+    {
+      "id": "cwgTSRonTWnPTHqPGqkqlDM2Oxtl76N2",
+      "title": "S.H. Question Creator",
+      "description": "",
+      "url": "https://sparkhire-question-creator.onrender.com",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/QuestionSetCreator_Logo.png",
+      "position": 38
+    }
+  ]
+}
