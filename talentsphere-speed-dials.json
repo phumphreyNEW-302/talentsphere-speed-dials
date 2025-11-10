@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-10T16:51:21.355143Z",
+  "generatedAt": "2025-11-10T16:57:01.009965Z",
   "group": "TalentSphere",
   "speedDials": [
     {
@@ -273,14 +273,6 @@
       "position": 34,
       "title": "Invoice Lookup",
       "url": "https://xero-lookup.onrender.com/auth/login"
-    },
-    {
-      "description": "Hotmail",
-      "id": "dial-mhtdp3gp-ur0aoqlibt",
-      "image": "",
-      "position": 35,
-      "title": "Test Dial",
-      "url": "https://hotmail.com"
     }
   ]
 }
