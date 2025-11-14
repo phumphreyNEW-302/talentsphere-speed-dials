@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-11T01:24:19.128298Z",
+  "generatedAt": "2025-11-14T21:40:22.116561Z",
   "group": "TalentSphere",
   "speedDials": [
     {
@@ -273,6 +273,14 @@
       "position": 34,
       "title": "Invoice Lookup",
       "url": "https://xero-lookup.onrender.com/auth/login"
+    },
+    {
+      "description": "",
+      "id": "dial-mhzdsarr-wik49wkvmz",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/ZoomtoCrelate_Logo.png",
+      "position": 35,
+      "title": "Zoom to Crelate Import",
+      "url": "https://zoominfo-importer-frontend.onrender.com"
     }
   ]
 }
