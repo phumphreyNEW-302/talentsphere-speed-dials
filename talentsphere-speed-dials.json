@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-14T21:40:22.116561Z",
+  "generatedAt": "2025-12-17T04:15:36.220171Z",
   "group": "TalentSphere",
   "speedDials": [
     {
@@ -281,6 +281,22 @@
       "position": 35,
       "title": "Zoom to Crelate Import",
       "url": "https://zoominfo-importer-frontend.onrender.com"
+    },
+    {
+      "description": "",
+      "id": "dial-mj9hyyxl-f06lf5fnkar",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/indeedCANADAjobs.png",
+      "position": 36,
+      "title": "Indeed - CAN Job Search",
+      "url": "https://ca.indeed.com/"
+    },
+    {
+      "description": "",
+      "id": "dial-mj9hx4ju-zyxo1yclstc",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/indeedUSAjobs.png",
+      "position": 37,
+      "title": "Indeed - US Job Search",
+      "url": "https://indeed.com/"
     }
   ]
 }
