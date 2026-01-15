@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-21T21:09:05.325826Z",
+  "generatedAt": "2026-01-15T05:28:04.865786Z",
   "group": "TalentSphere",
   "speedDials": [
     {
@@ -269,26 +269,42 @@
     {
       "description": "",
       "id": "cwgTSRonTWnPTHqPGqkqlDM2Oxtl76N2",
-      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/QuestionSetCreator_Logo.png",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/SparkHire_QuestionSetCreator_v3.png",
       "position": 34,
       "title": "S.H. Question Creator",
       "url": "https://sparkhire-question-creator.onrender.com"
     },
     {
       "description": "",
-      "id": "8oAIwEqqM5cU7Akse6zE3PIZ4hl74420",
-      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/InvoiceLookup.png",
+      "id": "dial-mhzdsarr-wik49wkvmz",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/ZoomtoCrelate_Logo.png",
       "position": 35,
+      "title": "Zoom to Crelate Import",
+      "url": "https://zoominfo-importer-frontend.onrender.com"
+    },
+    {
+      "description": "",
+      "id": "8oAIwEqqM5cU7Akse6zE3PIZ4hl74420",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Invoice_Lookup.png",
+      "position": 36,
       "title": "Invoice Lookup",
       "url": "https://xero-lookup.onrender.com/auth/login"
     },
     {
+      "description": "https://temp-placement-review.onrender.com/",
+      "id": "dial-mkezl8kj-iecc7vqs3eb",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Placement_Dashboard_v3.png",
+      "position": 37,
+      "title": "Placement Dashboard",
+      "url": "https://temp-placement-review.onrender.com/"
+    },
+    {
       "description": "",
-      "id": "dial-mhzdsarr-wik49wkvmz",
-      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/ZoomtoCrelate_Logo.png",
-      "position": 36,
-      "title": "Zoom to Crelate Import",
-      "url": "https://zoominfo-importer-frontend.onrender.com"
+      "id": "dial-mkf07x84-7acdp6sh5lw",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Sales_Commission.png",
+      "position": 38,
+      "title": "Sales and Commission",
+      "url": "https://talentsphere-dashboard.onrender.com/"
     }
   ]
 }
