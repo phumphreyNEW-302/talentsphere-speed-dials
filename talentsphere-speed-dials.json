@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-15T05:43:58.017052Z",
+  "generatedAt": "2026-03-06T03:41:31.873145Z",
   "group": "TalentSphere",
   "speedDials": [
     {
@@ -64,7 +64,7 @@
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/LinkedInSpeedDialLogo.png",
       "position": 8,
       "title": "LinkedIn",
-      "url": "http://www.linkedin.com/"
+      "url": "https://www.linkedin.com/"
     },
     {
       "description": "",
@@ -104,7 +104,7 @@
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/ZoomLogo2SpeedDial.jpg",
       "position": 13,
       "title": "Phone/Chat/Meetings",
-      "url": "http://talentsphere.zoom.us"
+      "url": "https://talentsphere.zoom.us"
     },
     {
       "description": "",
@@ -256,7 +256,7 @@
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/FacebookSpeedDialLogo.png",
       "position": 32,
       "title": "FaceBook",
-      "url": "http://facebook.com"
+      "url": "https://facebook.com"
     },
     {
       "description": "",
