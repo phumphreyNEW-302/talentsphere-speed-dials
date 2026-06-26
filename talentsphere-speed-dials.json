@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T01:50:08.787128Z",
+  "generatedAt": "2026-06-26T15:30:08.709056Z",
   "group": "TalentSphere",
   "speedDials": [
     {
@@ -288,7 +288,7 @@
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Invoice_Lookup.png",
       "position": 36,
       "title": "Invoice Lookup",
-      "url": "https://xero-lookup.onrender.com/auth/login"
+      "url": "https://temp-placement-review.onrender.com/invoice-lookup"
     },
     {
       "description": "https://temp-placement-review.onrender.com/",
