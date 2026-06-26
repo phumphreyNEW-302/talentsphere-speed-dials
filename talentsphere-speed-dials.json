@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T15:30:08.709056Z",
+  "generatedAt": "2026-06-26T16:00:19.400860Z",
   "group": "TalentSphere",
   "speedDials": [
     {
@@ -236,41 +236,9 @@
     },
     {
       "description": "",
-      "id": "4hTkPneBqImJ49l4A6fJryNuV7xqhT9a",
-      "image": "https://d5l07j6ktywkt.cloudfront.net/sdpreview/0/55716199/1393854441-531487e93bc20/preview.jpg",
-      "position": 30,
-      "title": "Online PDF Converter",
-      "url": "https://online2pdf.com/"
-    },
-    {
-      "description": "",
-      "id": "TZTScyiuaWAAlZkpgmABSwgbTRedHp3K",
-      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/PDF2DOC-Logo.jpg",
-      "position": 31,
-      "title": "PDF to DOC",
-      "url": "https://pdf2doc.com/"
-    },
-    {
-      "description": "",
-      "id": "22ae9a07",
-      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/FacebookSpeedDialLogo.png",
-      "position": 32,
-      "title": "FaceBook",
-      "url": "https://facebook.com"
-    },
-    {
-      "description": "",
-      "id": "f125b86e",
-      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/Twitter-New-Logo-X-2023.jpg",
-      "position": 33,
-      "title": "Twitter",
-      "url": "https://twitter.com/"
-    },
-    {
-      "description": "",
       "id": "cwgTSRonTWnPTHqPGqkqlDM2Oxtl76N2",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/SparkHire_QuestionSetCreator_v3.png",
-      "position": 34,
+      "position": 30,
       "title": "S.H. Question Creator",
       "url": "https://sparkhire-question-creator.onrender.com"
     },
@@ -278,7 +246,7 @@
       "description": "",
       "id": "dial-mhzdsarr-wik49wkvmz",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/ZoomtoCrelate_Logo.png",
-      "position": 35,
+      "position": 31,
       "title": "Zoom to Crelate Import",
       "url": "https://zoominfo-importer-frontend.onrender.com"
     },
@@ -286,7 +254,7 @@
       "description": "",
       "id": "8oAIwEqqM5cU7Akse6zE3PIZ4hl74420",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Invoice_Lookup.png",
-      "position": 36,
+      "position": 32,
       "title": "Invoice Lookup",
       "url": "https://temp-placement-review.onrender.com/invoice-lookup"
     },
@@ -294,7 +262,7 @@
       "description": "https://temp-placement-review.onrender.com/",
       "id": "dial-mkezl8kj-iecc7vqs3eb",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Placement_Dashboard_v3.png",
-      "position": 37,
+      "position": 33,
       "title": "Placement Dashboard",
       "url": "https://temp-placement-review.onrender.com/"
     },
@@ -302,9 +270,17 @@
       "description": "",
       "id": "dial-mkf07x84-7acdp6sh5lw",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Sales_Commission.png",
-      "position": 38,
+      "position": 34,
       "title": "Sales and Commission",
       "url": "https://talentsphere-dashboard.onrender.com/"
+    },
+    {
+      "description": "",
+      "id": "dial-mqv41ab1-tx8118ynbo",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TermsIcon.png",
+      "position": 35,
+      "title": "Terms of Business Workflow - TalentSphere",
+      "url": "https://terms-of-business-workflow.onrender.com/"
     }
   ]
 }
