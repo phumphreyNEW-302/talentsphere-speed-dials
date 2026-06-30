@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T16:00:19.400860Z",
+  "generatedAt": "2026-06-30T17:24:46.538794Z",
   "group": "TalentSphere",
   "speedDials": [
     {
@@ -236,9 +236,17 @@
     },
     {
       "description": "",
+      "id": "dial-mr0x1spe-e3e34f3v379",
+      "image": "https://talentsphere.ca/wp-content/uploads/2021/07/PDF2DOC-Logo.jpg",
+      "position": 30,
+      "title": "New ShortcutPDF to DOC",
+      "url": "https://pdf2doc.com/"
+    },
+    {
+      "description": "",
       "id": "cwgTSRonTWnPTHqPGqkqlDM2Oxtl76N2",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/SparkHire_QuestionSetCreator_v3.png",
-      "position": 30,
+      "position": 31,
       "title": "S.H. Question Creator",
       "url": "https://sparkhire-question-creator.onrender.com"
     },
@@ -246,7 +254,7 @@
       "description": "",
       "id": "dial-mhzdsarr-wik49wkvmz",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/ZoomtoCrelate_Logo.png",
-      "position": 31,
+      "position": 32,
       "title": "Zoom to Crelate Import",
       "url": "https://zoominfo-importer-frontend.onrender.com"
     },
@@ -254,7 +262,7 @@
       "description": "",
       "id": "8oAIwEqqM5cU7Akse6zE3PIZ4hl74420",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Invoice_Lookup.png",
-      "position": 32,
+      "position": 33,
       "title": "Invoice Lookup",
       "url": "https://temp-placement-review.onrender.com/invoice-lookup"
     },
@@ -262,7 +270,7 @@
       "description": "https://temp-placement-review.onrender.com/",
       "id": "dial-mkezl8kj-iecc7vqs3eb",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Placement_Dashboard_v3.png",
-      "position": 33,
+      "position": 34,
       "title": "Placement Dashboard",
       "url": "https://temp-placement-review.onrender.com/"
     },
@@ -270,7 +278,7 @@
       "description": "",
       "id": "dial-mkf07x84-7acdp6sh5lw",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TalentSphere_Sales_Commission.png",
-      "position": 34,
+      "position": 35,
       "title": "Sales and Commission",
       "url": "https://talentsphere-dashboard.onrender.com/"
     },
@@ -278,7 +286,7 @@
       "description": "",
       "id": "dial-mqv41ab1-tx8118ynbo",
       "image": "https://talentsphere.ca/wp-content/uploads/2021/07/TermsIcon.png",
-      "position": 35,
+      "position": 36,
       "title": "Terms of Business Workflow - TalentSphere",
       "url": "https://terms-of-business-workflow.onrender.com/"
     }
