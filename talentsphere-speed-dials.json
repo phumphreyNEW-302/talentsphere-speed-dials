@@ -2,17 +2,25 @@
   "banner": {
     "imageUrl": "https://phumphreyNEW-302.github.io/talentsphere-speed-dials/banners/current.png?v=20261013T193206Z",
     "linkUrl": "https://hatsforhope.ca",
-    "mode": "image",
+    "mode": "text",
     "segments": [
       {
+        "color": "#b42318",
+        "text": "\ud83d\udcc5"
+      },
+      {
         "color": "#003b73",
-        "text": "\u2b50 First Placement - Congratulations Zeeshan Ali \u2b50"
+        "text": " Hats for Hope Photo Day - Tuesday 2pm EST"
+      },
+      {
+        "color": "#b42318",
+        "text": "\ud83d\udccc"
       }
     ],
-    "text": "\u2b50 First Placement - Congratulations Zeeshan Ali \u2b50",
-    "updatedAt": "2026-10-18T01:12:51.537518Z"
+    "text": "\ud83d\udcc5 Hats for Hope Photo Day - Tuesday 2pm EST\ud83d\udccc",
+    "updatedAt": "2026-10-26T20:19:16.946930Z"
   },
-  "generatedAt": "2026-10-18T01:12:51.537387Z",
+  "generatedAt": "2026-10-26T20:19:16.946672Z",
   "group": "TalentSphere",
   "speedDials": [
     {
