@@ -2,25 +2,17 @@
   "banner": {
     "imageUrl": "https://phumphreyNEW-302.github.io/talentsphere-speed-dials/banners/current.gif?v=20261027T212826Z",
     "linkUrl": "",
-    "mode": "image",
+    "mode": "text",
     "segments": [
       {
         "color": "#b42318",
-        "text": "\ud83d\udcc5"
-      },
-      {
-        "color": "#003b73",
-        "text": " Next Business Update - Thursday, Nov 19, 2 pm EST "
-      },
-      {
-        "color": "#b42318",
-        "text": "\ud83d\udccc"
+        "text": "TO DO: Get 3 new jobs by Nov 15, to close in December!"
       }
     ],
-    "text": "\ud83d\udcc5 Next Business Update - Thursday, Nov 19, 2 pm EST \ud83d\udccc",
-    "updatedAt": "2026-10-30T03:54:20.790445Z"
+    "text": "TO DO: Get 3 new jobs by Nov 15, to close in December!",
+    "updatedAt": "2026-11-02T22:00:38.717357Z"
   },
-  "generatedAt": "2026-10-30T03:54:20.790335Z",
+  "generatedAt": "2026-11-02T22:00:38.717248Z",
   "group": "TalentSphere",
   "speedDials": [
     {
