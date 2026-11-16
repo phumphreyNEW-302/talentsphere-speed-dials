@@ -5,14 +5,18 @@
     "mode": "text",
     "segments": [
       {
-        "color": "#b42318",
-        "text": "TO DO: Get 3 new jobs by Nov 15, to close in December!"
+        "color": "#003b73",
+        "text": "\ud83d\udcc5"
+      },
+      {
+        "color": "#087443",
+        "text": "Next Business Update - November 19th, 2 pm EST."
       }
     ],
-    "text": "TO DO: Get 3 new jobs by Nov 15, to close in December!",
-    "updatedAt": "2026-11-02T22:00:38.717357Z"
+    "text": "\ud83d\udcc5Next Business Update - November 19th, 2 pm EST.",
+    "updatedAt": "2026-11-16T03:06:02.006731Z"
   },
-  "generatedAt": "2026-11-02T22:00:38.717248Z",
+  "generatedAt": "2026-11-16T03:06:02.006627Z",
   "group": "TalentSphere",
   "speedDials": [
     {
